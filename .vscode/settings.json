@@ -1,0 +1,8 @@
+{
+    "git.allowForcePush": false,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": false,
+    "git.autoRepositoryDetection": true,
+    "git.branchRandomName.enable": false,
+    "git.decorations.enabled": true
+}
